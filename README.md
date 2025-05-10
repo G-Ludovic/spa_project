@@ -1,4 +1,5 @@
-# Projet SPA d'entrainement :
+# Projet SPA d'entrainement
+
 
 ## Objectif :
 
