@@ -1,4 +1,5 @@
-# Projet SPA d'entrainement
+# Projet "SPA" d'entrainement
+
 
 
 ## Objectif :
@@ -11,6 +12,12 @@
 - utilisation du "fetch",
 - mise en forme CSS.
 
+
 ## La maquette FIGMA qui est l'objectif :
 
 ![Figma-projet_spa](https://github.com/user-attachments/assets/42f60f26-fefa-4960-94a7-9e95b48a5b53)
+
+
+## Méthode :
+
+![Méthode](https://github.com/user-attachments/assets/b8f003b0-a697-48f2-aa66-399407f60797)
