@@ -1,0 +1,11 @@
+.figure-card {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+
+  img {
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+  }
+}

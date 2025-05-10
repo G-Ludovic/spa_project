@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  background-color: var(--background-color-page);
+  font-family: var(--font-text);
+  font-weight: 700;
+}
+
+.logo-spa {
+  height: 150px;
+  width: max-content;
+  padding: 1rem;
+}
+
+.header-nav {
+  display: flex;
+  gap: 1rem;
+  padding: 0 1rem 0;
+  justify-content: center;
+  font-family: var(--font-text);
+}

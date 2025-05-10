@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+button {
+  display: flex;
+  padding: 16px;
+  border-radius: 28px;
+  text-transform: none;
+  font-family: var(--font-text);
+  background-color: var(--background-color-one);
+  color: white;
+}
+
+@font-face {
+  font-family: "Roboto Bold";
+  src: local("Roboto Bold"),
+    url("./assets/fonts/Roboto-Bold.ttf") format("truetype");
+}
+
+:root {
+  --font-text: "Roboto Bold";
+  --color-spe: #EB631A;
+  --background-color-one: #EB631A;
+  --background-color-two: #133836CC;
+  --background-color-three: #2B827E;
+}
